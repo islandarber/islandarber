@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @islandarber
 - 👀 I’m interested in traveling, creating new experiences, coding (of course) and cooking ! Especially asian and/or greek Cuisine.
-- 🌱 I’m currently learning Typescript and PHP.
+- 🌱 I’m currently learning Typescript and animations.
 - 💞️ I’m looking to collaborate on different Projects JS based for the moment but I'm eager to participate in something different.
 - 📫 How to reach me : www.linkedin.com/in/christina-vekri  || christina.vek@gmail.com
 - 😄 Pronouns: she/her.
